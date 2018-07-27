@@ -1,0 +1,19 @@
+body{
+  background: url(https://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/c8edc202-3299-11e8-9dab-e1cc14b04ae4.png)
+}
+
+div{
+  background-color: blue;
+  border-color: orange;
+  border-width: 4px;
+  border-style: double;
+}
+
+p{
+  color: yellow;
+}
+
+span{
+  background: red;
+  color: black;
+}

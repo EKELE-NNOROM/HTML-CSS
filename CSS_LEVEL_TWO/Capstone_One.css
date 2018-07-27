@@ -1,0 +1,33 @@
+p{
+  color: #FDFFFC;
+  padding-top: 5%;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+body{
+  text-align: center;
+  background-color: #04283a;
+  border: 60px solid #2EC4B6;
+}
+
+h2{
+   margin: 5px 5px 100px 5px;
+ }
+
+.button {
+     background-color: #fc9002; /* Green */
+     border: none;
+     color: black;
+     padding: 15px 32px;
+     text-align: center;
+     text-decoration: none;
+     display: inline-block;
+     font-size: 16px;
+     border-radius: 12px;
+ }
+
+.userinput{
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}

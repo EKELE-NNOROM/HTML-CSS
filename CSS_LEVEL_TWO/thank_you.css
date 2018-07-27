@@ -1,0 +1,14 @@
+body{
+  margin:auto;
+  text-align: center;
+  background-color: #04283a;
+}
+
+.writing{
+  font-family: 'PoppinsRegular';
+  font-weight: normal;
+  font-style: normal;
+  text-align: center;
+  background-color: #04283a;
+  border: 60px solid #2EC4B6;
+}
